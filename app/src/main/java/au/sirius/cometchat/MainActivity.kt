@@ -29,9 +29,9 @@ class MainActivity : ComponentActivity() {
 
     private val TAG = "MainActivity"
 
-    private val appID = "2780355262a7ebfa"
-    private val region = "in"
-    private val authKey = "8228928bedcea7a2434060bf504f57e22727fe98"
+    private val appID = ""
+    private val region = ""
+    private val authKey = "Please add a authkey mine will raise security issue on github"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
