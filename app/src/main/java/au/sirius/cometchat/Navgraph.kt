@@ -1,0 +1,2 @@
+package au.sirius.cometchat
+
